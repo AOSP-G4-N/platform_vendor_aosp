@@ -1,0 +1,1 @@
+# AOSP vendor configuration
